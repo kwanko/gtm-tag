@@ -47,10 +47,19 @@ And paste the following JavaScript code snippet in the textarea field :
 
 And save the variable with an appropriate name (ex: `expirationDate`).
 
+### Search and add Kwanko template from the gallery
+
+The first step is to add the Kwanko default tag template from the template gallery to your workspace.
+In the "templates" tab, click on "Search Gallery" button and search for "Kwanko default tag" in the search bar.
+!["Search & import Kwanko default tag from gallery"](assets/img/kwanko_gtm_gallery_search_detail.png "Search & import Kwanko default tag from gallery")
+
+Follow the steps to add the template through the "Add to workspace" and "Add" button in the confirmation box.
+From there, the imported template will be displayed in you workspace with the "gallery" flag.
+!["Imported Kwanko default template"](assets/img/kwanko_default_tag_template_imported.png "Imported Kwanko default template")
 
 ### Create a new tag
 
-The first step is to create a new Tag in your GTM workspace :
+Next step is to create a new Tag in your GTM workspace :
 !["Creating new GTM Tag"](assets/img/kwango_gtm_default_newtag.png "Creating new GTM Tag")
 
 ### Tag configuration
