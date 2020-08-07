@@ -15,6 +15,10 @@
 homepage: "https://www.kwanko.com"
 documentation: "https://github.com/kwanko/gtm-tag"
 versions:
+  - sha: 4dd89a71774744903a22c7e940b4d26ebcc792f4
+    changeNotes: Update search gallery screenshot with more appropriate one
   # Latest version
+  - sha: 98e97b32070d7f7b3e8e87ef23f2c05e9bc39016
+    changeNotes: template review feedback (improve setup documentation)
   - sha: e7731ccf8672c05b2de43d2f5146d0b9569a9560
     changeNotes: Initial release of the default Kwanko tag for GTM.
